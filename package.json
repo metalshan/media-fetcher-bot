@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/metalshan/media-fetcher-bot/issues"
   },
-  "homepage": "https://github.com/metalshan/media-fetcher-bot#readme"
+  "homepage": "https://github.com/metalshan/media-fetcher-bot#readme",
+  "dependencies": {
+    "jsdom": "^11.0.0",
+    "yargs": "^8.0.1"
+  }
 }
