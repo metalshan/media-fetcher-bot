@@ -1,0 +1,19 @@
+{
+  "name": "media-fetcher-bot",
+  "version": "0.0.0",
+  "description": "A bot which will fetch the media files from a page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metalshan/media-fetcher-bot.git"
+  },
+  "author": "Paul Shan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metalshan/media-fetcher-bot/issues"
+  },
+  "homepage": "https://github.com/metalshan/media-fetcher-bot#readme"
+}
