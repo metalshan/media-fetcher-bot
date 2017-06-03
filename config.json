@@ -1,0 +1,13 @@
+{
+    "outputCSV": "./output.csv",
+    "mediaExtensions": [
+        "mp3",
+        "mp4",
+        "mkv",
+        "wmv",
+        "swf",
+        "avi",
+        "flv",
+        "3gp"
+    ]
+}
